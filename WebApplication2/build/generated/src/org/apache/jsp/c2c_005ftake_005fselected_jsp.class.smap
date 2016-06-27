@@ -1,0 +1,17 @@
+SMAP
+c2c_005ftake_005fselected_jsp.java
+JSP
+*S JSP
+*F
++ 0 c2c_take_selected.jsp
+c2c_take_selected.jsp
++ 1 connect.jsp
+connect.jsp
+*L
+1,10:60
+1#1,4:69
+6,39:74
+44,2:113
+10#0,2:114
+13,82:117
+*E
